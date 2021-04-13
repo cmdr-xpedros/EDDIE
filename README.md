@@ -9,4 +9,6 @@ Supported brains: IQ 100+
 
 EDDIE is not affiliated with nor endorsed by [Frontier Developments plc](http://frontier.co.uk/), the developers of [Elite: Dangerous](https://www.elitedangerous.com/).
 
+Used json.hpp file is licensed under the [MIT License](http://opensource.org/licenses/MIT). It is the part of the [JSON for Modern C++](https://github.com/nlohmann/json) project by [Niels Lohmann](https://nlohmann.me/).
+
 
