@@ -3,6 +3,8 @@ Extracts selected data from ED journal files, converts them to an easy readable 
 
 Software type: The goal is to create a minimalistic version of the [elite-journal](https://github.com/willyb321/elite-journal/blob/develop/readme.md) utility. For now, as a command line application.
 
+Dev info: The source code is written in C++ using Code:Blocks IDE.
+
 Supported OS: Linux, Windows
 
 Supported brains: IQ 100+
