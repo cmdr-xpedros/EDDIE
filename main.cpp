@@ -9,6 +9,8 @@
 
 //using namespace std;
 
+#define PAUSE_WHEN_FINISHED
+
 int main(int argc, char *argv[])
 {
     // read a JSON file
@@ -32,5 +34,9 @@ int main(int argc, char *argv[])
         if(!sItem.empty())
             std::cout << sItem << std::endl;
     }
+#ifdef PAUSE_WHEN_FINISHED
+    std::cout << std::endl << "Press any key to exit...";
+    getchar();
+#endif // PAUSE_WHEN_FINISHED
     return 0;
 }
