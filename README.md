@@ -1,7 +1,7 @@
 # Elite Dangerous Data Info Extractor
 Extracts selected data from ED journal files, converts them to an easy readable form and print them to the standard output (it can be redirected e.g. to the text files).
 
-Software type: The goal is to create a minimalistic version of the [elite-journal](https://github.com/willyb321/elite-journal/blob/develop/readme.md) utility. For now, as a command line application.
+Software type: The goal is to create a minimalistic version of the [elite-journal](https://github.com/willyb321/elite-journal/blob/develop/readme.md) utility. For now, as a command line terminal application.
 
 Dev info: The source code is written in C++ using [Code:Blocks IDE](https://www.codeblocks.org/).
 
